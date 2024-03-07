@@ -17,5 +17,6 @@ header {
 
 H1 {
   font-size: 2em;
+  line-height: 1.5;
   font-weight: normal;
 }
