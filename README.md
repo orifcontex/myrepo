@@ -6,3 +6,4 @@
 
 ### TODO
 * contact form
+* set up mailer
