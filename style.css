@@ -24,6 +24,10 @@ H1 {
   font-weight: bold;
 }
 
+h2 {
+  font-size: 2em;
+}
+
 p {
   line-height: 1.5;
   font-size: 1.2em;
