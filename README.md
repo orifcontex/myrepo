@@ -3,8 +3,8 @@
 * Home page created
 * Contacts page created
 * About page created
+* contact form
 
 ### TODO
-* contact form
 * set up mailer
 * add fancy css
