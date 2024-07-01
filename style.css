@@ -1,6 +1,6 @@
 html {
   background-color: #fff;
-  text-align: center;
+  text-align: left;
   font-family: Calibri, sans-serif;
 }
 
@@ -8,6 +8,7 @@ html {
   margin: 0;
   padding: 0;
   line-height: 1.5;
+  content-box: border-box;
 }
 
 header {
