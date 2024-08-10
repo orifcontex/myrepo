@@ -5,3 +5,5 @@ $to = 'email@example.com';
 $message ="Hello world!";
 
 $res = mailto($from, $to, $message); 
+
+var_dump($res);
